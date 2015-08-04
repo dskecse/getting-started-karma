@@ -1,6 +1,6 @@
 {
   "name": "getting-started-karma",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Getting started TDD with Jasmine, Karma and PhantomJS",
   "devDependencies": {
     "jasmine-core": "^2.3.4",
