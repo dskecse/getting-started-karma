@@ -1,4 +1,4 @@
-if (typeof NS == 'undefined') { NS = {}; }
+if (typeof NS === 'undefined') { NS = {}; }
 
 NS.myFunction = {
   // empty stuff array, filled during initialization
